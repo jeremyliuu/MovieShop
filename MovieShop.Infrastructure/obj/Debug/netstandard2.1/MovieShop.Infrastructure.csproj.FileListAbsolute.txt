@@ -1,0 +1,11 @@
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.deps.json
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Infrastructure.pdb
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Core.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\bin\Debug\netstandard2.1\MovieShop.Core.pdb
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.csprojAssemblyReference.cache
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.AssemblyInfo.cs
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.csproj.CopyComplete
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.Infrastructure\obj\Debug\netstandard2.1\MovieShop.Infrastructure.pdb
