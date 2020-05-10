@@ -9,5 +9,7 @@ namespace MovieShop.Core.RepositoryInterfaces
     public interface IMovieRepository: IAsyncRepository<Movie>
     {
         Task<IEnumerable<Movie>> GetTopGrossingMovies();
+
+        Task<IEnumerable<Movie>> GetMoviesByGenreId(int id);
     }
 }

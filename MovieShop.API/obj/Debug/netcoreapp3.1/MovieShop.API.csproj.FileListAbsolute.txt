@@ -125,4 +125,15 @@ C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\runt
 C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\solom\source\repos\MovieShop\MovieShop.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\solom\source\repos\MovieShop\MovieShop.API\obj\Debug\netcoreapp3.1\MovieShop.API.MvcApplicationPartsAssemblyInfo.cache

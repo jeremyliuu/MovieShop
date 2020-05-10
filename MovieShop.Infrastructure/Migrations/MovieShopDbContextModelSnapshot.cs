@@ -154,6 +154,9 @@ namespace MovieShop.Infrastructure.Migrations
                         .HasColumnType("decimal(5, 2)")
                         .HasDefaultValue(9.9m);
 
+                    b.Property<decimal?>("Rating")
+                        .HasColumnType("decimal(18,2)");
+
                     b.Property<DateTime?>("ReleaseDate")
                         .HasColumnType("datetime2");
 

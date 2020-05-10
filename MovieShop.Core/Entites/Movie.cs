@@ -24,6 +24,7 @@ namespace MovieShop.Core.Entites
         public DateTime? UpdatedDate { get; set; }
         public string UpdatedBy { get; set; }
         public string CreatedBy { get; set; }
+        public decimal? Rating { get; set; }
         public ICollection<MovieGenre> MovieGenres { get; set; }
         public ICollection<MovieCrew> MovieCrews { get; set; }
         public ICollection<MovieCast> MovieCasts { get; set; }

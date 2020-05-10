@@ -7,6 +7,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using MovieShop.Core.Helpers;
+
 namespace MovieShop.Infrastructure.Repositories
 {
     public class EfRepository<T> : IAsyncRepository<T> where T : class
@@ -30,6 +32,11 @@ namespace MovieShop.Infrastructure.Repositories
         public virtual async Task<T> GetByIdAsync(int id)
         {
             return await _dbContext.Set<T>().FindAsync(id);
+        }
+        public async Task<PaginatedList<T>> GetPagedData(int pageIndex, int pageSize, Func<IQueryable<T>, IOrderedQueryable<T>> orderedQuery = null, Expression<Func<T, bool>> filter = null)
+        {
+            var pagedList = await PaginatedList<T>.GetPaged(_dbContext.Set<T>(), pageIndex, pageSize, orderedQuery, filter);
+            return pagedList;
         }
         public virtual async Task<int> GetCountAsync(Expression<Func<T, bool>> filter = null)
         {
